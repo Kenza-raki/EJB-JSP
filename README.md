@@ -56,9 +56,7 @@ Dans notre application, Hibernate simplifie l'accès aux données stockées dans
 
 ![1](https://github.com/Kenza-raki/EJB-JSP/assets/116951093/50f3ebf6-d9d8-45a0-8ca1-8b3d77c84623)
 
-### Gestion des Hotels 
-
-![X1](https://github.com/Kenza-raki/EJB-JSP/assets/116951093/b7aa2b2e-331a-4b06-8462-dcdf9b421da8)
+### Gestion des Hotels
 
 **Ajout d'un hotel :**
 
@@ -85,8 +83,6 @@ https://github.com/Kenza-raki/EJB-JSP/assets/116951093/69e8c4d1-d517-4d0f-9f6e-0
 
 
 ### Gestion des Villes
-
-![10](https://github.com/Kenza-raki/EJB-JSP/assets/116951093/bbcf66b4-7563-4845-8b7e-60818bf67c85)
 
 **Ajout d'une ville :**
 

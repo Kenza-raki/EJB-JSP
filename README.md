@@ -98,11 +98,19 @@ https://github.com/Kenza-raki/EJB-JSP/assets/116951093/69e8c4d1-d517-4d0f-9f6e-0
 
 **Video démonstratif de ces operations des CRUD:**
 
-[Untitled_ Dec 1 2023 11_38 AM.webm](https://github.com/Kenza-raki/EJB-JSP/assets/116951093/cfc9faac-7591-43b1-863b-06fe0cc15e2b)
+
+
+https://github.com/Kenza-raki/EJB-JSP/assets/116951093/55e26e27-0cf6-4af8-9e7f-391f3a5ab50d
+
+
 
 ### Le Nombre des hotels Par Villes
 
-[Untitled_ Dec 1 2023 8_32 PM.webm](https://github.com/Kenza-raki/EJB-JSP/assets/116951093/8918be03-bc70-486c-962e-38fbb1bb6f50)
+
+
+https://github.com/Kenza-raki/EJB-JSP/assets/116951093/6f933301-1d02-4bc2-b896-1c017d7874fd
+
+
 
 
 ## Configuration du Projet

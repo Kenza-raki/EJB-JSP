@@ -58,22 +58,10 @@ Dans notre application, Hibernate simplifie l'accès aux données stockées dans
 
 ### Gestion des Hotels
 
-**Ajout d'un hotel :**
 
 ![X5](https://github.com/Kenza-raki/EJB-JSP/assets/116951093/fee77d9f-1c39-48e7-91ea-432507282705)
 
-**Suppression d'un hotel :**
 
-![X3](https://github.com/Kenza-raki/EJB-JSP/assets/116951093/930b156a-698b-466f-a360-d5823b147598)
-
-**Modification d'un hotel :**
-
-![X6](https://github.com/Kenza-raki/EJB-JSP/assets/116951093/671693f1-7166-4348-9c3d-ff788c5b747f)
-![X7](https://github.com/Kenza-raki/EJB-JSP/assets/116951093/085cfb98-8d82-4a72-bb95-cf456aa15f0d)
-
-**Filtrage des hotels par ville :**
-
-![X8](https://github.com/Kenza-raki/EJB-JSP/assets/116951093/31bd1be9-8717-4515-b9d7-39110751351c)
 
 **Video démonstratif de ces operations des CRUD:**
 
@@ -84,17 +72,10 @@ https://github.com/Kenza-raki/EJB-JSP/assets/116951093/69e8c4d1-d517-4d0f-9f6e-0
 
 ### Gestion des Villes
 
-**Ajout d'une ville :**
 
 ![11](https://github.com/Kenza-raki/EJB-JSP/assets/116951093/05f82554-49e6-4ede-8e1a-26dca934d9f1)
 
-**Suppression d'une ville :**
 
-![20](https://github.com/Kenza-raki/EJB-JSP/assets/116951093/f38b5ad9-b8ca-4a15-8804-3185a57b418c)
-
-**Modification d'une ville :**
-
-![14](https://github.com/Kenza-raki/EJB-JSP/assets/116951093/44a34f4c-4290-4e9a-bce5-16143cdf96c3)
 
 **Video démonstratif de ces operations des CRUD:**
 
